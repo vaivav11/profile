@@ -1,0 +1,72 @@
+body {
+  background-color: LemonChiffon;
+  font-family: 'Raleway', sans-serif;
+  color: LightCoral;
+  font-size: 12px;
+  line-height: auto;
+}
+h1 {
+  color: CornflowerBlue;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  line-height: auto;
+}
+
+h2 {
+  color: CornflowerBlue;
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  line-height: auto;
+}
+
+h3 {
+  color: CornflowerBlue;
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  line-height: auto;
+}
+
+
+.profile_pic {
+  height: 200px;
+  width: auto;
+  border-radius: 50%;
+}
+
+/*.profile_pic:hover .overlay {
+  opacity: 1;
+}*/
+
+
+img {
+  height: 200px;
+  width: auto;
+}
+
+ul {
+  color: LightSeaGreen;
+  text-decoration: underline;
+}
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
